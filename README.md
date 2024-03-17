@@ -23,8 +23,7 @@
 <p dir="auto"><a href="https://www.skyvern.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Skyvern</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用法学硕士和计算机视觉自动化基于浏览器的工作流程。</font><font style="vertical-align: inherit;">它提供了一个简单的 API 端点来完全自动化手动工作流程，取代脆弱或不可靠的自动化解决方案。</font></font></p>
 <p align="center" dir="auto">
   <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/Skyvern-AI/skyvern/blob/main/images/geico_shu_recording_cropped.gif" data-target="animated-image.originalLink"><img src="https://github.com/Skyvern-AI/skyvern/raw/main/images/geico_shu_recording_cropped.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Skyvern-AI/skyvern/blob/main/images/geico_shu_recording_cropped.gif" target="_blank">
+    
           
         
 </p>
